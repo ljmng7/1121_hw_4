@@ -1,5 +1,6 @@
 # 1121_hw_4
 This is a test for my homework.
+这是程序调试方法课程2025.11.21的课程作业，目标初步掌握Git的使用方法。
 
 ## 4-1 将输入的一行字符反序
 ### 【问题描述】
@@ -9,10 +10,10 @@ This is a test for my homework.
 ### 【输出文件】
 输出到屏幕。
 ### 【样例输入】
-设输入文件char数组为：
+设输入文件char数组为：  
 `This is a test!`
 ### 【样例输出】
-输出屏幕为：
+输出屏幕为：  
 `!tset a si sihT`
 
 ## 4-2 字符串转换双精度浮点数
